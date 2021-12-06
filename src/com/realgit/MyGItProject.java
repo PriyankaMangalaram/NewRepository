@@ -8,6 +8,8 @@ public class MyGItProject {
 		
 		System.out.println("hi");
 		System.out.println("heloo");
+		
+		System.out.println("New project method");
 	}
 
 }
